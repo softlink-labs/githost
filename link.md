@@ -1,0 +1,1 @@
+git pull https://calteen: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@github.com/softlink-labs/githost

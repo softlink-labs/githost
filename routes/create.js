@@ -24,7 +24,7 @@ try {
     
     }
     else{
-      res.redirect('http://localhost:3000/'+result)
+      res.redirect('https://gitwebsite.com/'+result)
     
     }
       })
