@@ -79,13 +79,12 @@
 
 
 
-<div id="txt"></div>
 
 <script>
 function startTime() {
 const d = new Date();
 let time = d.getTime();
-time = time/9982;
+time = time/98 - 17348001982;
 time =  Math.trunc(time);
   document.getElementById('txt').innerHTML =  time;
   setTimeout(startTime, 1000);
